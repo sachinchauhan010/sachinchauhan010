@@ -5,7 +5,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Sachin Chauhan</h1></summary>
   </ul>
 </div>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=front-end+web+developer" </p> 
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=fullstack+web+developer" </p> 
 <h3 align="center"></h3>
 
 <!--- snake -->

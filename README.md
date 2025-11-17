@@ -91,28 +91,9 @@ const sachin = {
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="50" height="50"/>
-  </a>
 </p>
 
 <br/>
-
-### **Tech Stack Categories**
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Database** | **Languages** | **Tools** |
-|:---:|:---:|:---:|:---:|:---:|
-| HTML5 | Node.js | MongoDB | JavaScript | Git |
-| CSS3 | Express.js | MySQL | C | GitHub |
-| JavaScript | | | C++ | Linux |
-| React.js | | | Java | Figma |
-| Redux | | | Python | VS Code |
-| Bootstrap | | | | |
-| Tailwind CSS | | | | |
-
-</div>
 
 ---
 
